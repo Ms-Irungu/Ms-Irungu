@@ -2,7 +2,7 @@
 
 🌍 Passionate about building impactful, **location-driven** web applications that solve real-world problems.  
 💻 A **Frontend Developer** & **GIS Enthusiast** focused on creating interactive, responsive, and beautiful user interfaces using **React**, **Tailwind CSS**, and geospatial tools.  
-🗺️ My journey into **software development** began in December with **ALX**, and since then, I’ve been crafting solutions that blend **tech** and **geospatial data** to serve communities.  
+🗺️ My journey into **software development** began in December 2025 with **ALX**, and since then, I’ve been crafting solutions that blend **tech** and **geospatial data** to serve communities.  
 ✨ I believe in **solution-based development** over complexity—keep it simple, useful, and impactful.
 
 > _"Code with a cause 🌍. Design with purpose 🎯."_
