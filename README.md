@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Valentine Irungu 🧭 creator of **Pata Places**, a smart locator app, leveraging the **OpenStreetMap Overpass API** and **Nominatim Geocoder**.
+# 👋 Hi there, I'm Valentine Irungu 🧭 creator of **Pata Places**, a smart locator app, leveraging **OpenStreetMap's Overpass API** and **Nominatim Geocoder**.
 
 🌍 Passionate about building impactful, **location-driven** web applications that solve real-world problems.  
 💻 A **Frontend Developer** & **GIS Enthusiast** focused on creating interactive, responsive, and beautiful user interfaces using **React**, **Tailwind CSS**, and geospatial tools.  
