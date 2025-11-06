@@ -3,7 +3,7 @@
 🌍 Passionate about building impactful, **location-driven** web applications that solve real-world problems.  
 💻 A **Frontend Developer** & **GIS Enthusiast** focused on creating interactive, responsive, and beautiful user interfaces using **React**, **Tailwind CSS**, and geospatial tools.  
 🗺️ My journey into **software development** began in December 2024 with **ALX**, and since then, I’ve been crafting solutions that blend **tech** and **geospatial data** to serve communities.  
-✨ I believe in **solution-based development** over complexity—keep it simple, useful, and impactful.
+✨ I believe in **solution-based development** over complexity keep it simple, useful, and impactful.
 
 > _"Code with a cause 🌍. Design with purpose 🎯."_
 
@@ -32,7 +32,7 @@
 
 ### 📫 Let’s Connect!
 - 💼 [LinkedIn](www.linkedin.com/in/valentineirungu)
-- 🌐 [Portfolio](Soon to be released)
+- 🌐 [Portfolio](https://valentineirungu.vercel.app/)
 - 📍 [Live Project – Pata Places](https://pataplaces.netlify.app/)
 
 ---
