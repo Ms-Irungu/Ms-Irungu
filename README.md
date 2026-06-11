@@ -33,7 +33,6 @@
 ### 📫 Let’s Connect!
 - 💼 [LinkedIn](www.linkedin.com/in/valentineirungu)
 - 🌐 [Portfolio](https://valentineirungu.vercel.app/)
-- 📍 [Live Project – Pata Places](https://pataplaces.netlify.app/)
 
 ---
 
