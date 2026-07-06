@@ -1,8 +1,7 @@
-## Hello there👋, I'm Valentine Irungu, a **Frontend Developer**, **GIS Developer**, and **Geospatial Analyst** passionate about **building digital and geospatial solutions** that create **real-world impact**.✨
+## Passionate about building impactful, **location-driven** web applications that solve real-world problems✨
 
-🌍 Passionate about building impactful, **location-driven** web applications that solve real-world problems.  
-💻 A **Frontend Developer** & **GIS Enthusiast** focused on creating interactive, responsive, and beautiful user interfaces using **React**, **Tailwind CSS**, and geospatial tools.  
-🗺️ My journey into **software development** began in December 2024 with **African Leadership Experience (ALX)**, and since then, I’ve been crafting solutions that blend **tech** and **geospatial data** to serve communities.  
+**Sofware Developer(Frontend)** & **GIS Enthusiast** focused on creating interactive, responsive, and beautiful user interfaces.
+
 ✨ I believe in **solution-based development** over complexity keep it simple, useful, and impactful.
 
 > _"Code with a cause 🌍. Design with purpose 🎯."_
