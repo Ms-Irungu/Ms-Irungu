@@ -1,6 +1,6 @@
 ## Passionate about building impactful, **location-driven** web applications that solve real-world problems✨
 
-**Sofware Developer (Frontend) ** & **GIS Enthusiast** focused on creating interactive, responsive, and beautiful user interfaces.
+**Sofware Developer (Frontend)** & **Geospatial Enthusiast** focused on creating interactive, responsive, and beautiful user interfaces.
 
 ✨ I believe in **solution-based development** over complexity keep it simple, useful, and impactful.
 
